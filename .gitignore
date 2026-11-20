@@ -1,0 +1,22 @@
+# Результаты генерации (out/run_*: STL/OBJ/3MF, сотни МБ)
+out/
+
+# Личные тестовые фото мультивью — не публикуются
+samples_mv/
+
+# Внутренний план работ
+img2stl-plan.md
+
+# Побочный проект (клипса-держатель в Blender) — не относится к img2stl
+clip_concept/
+
+# Конфигурация opencode (внутренние правила)
+.opencode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# KDE
+.directory
